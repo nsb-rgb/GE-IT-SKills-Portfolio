@@ -10,3 +10,6 @@
 ### <ins>Jimny Sale</ins>
 ### Suzuki is running a promotional sale for their newly released 2027 Jimny. I wanted to entice the viewer immediately, so I chose to make the text big and be straight to the point about the amazing sale going on.
 ![Task 3](https://github.com/nsb-rgb/GE-IT-SKills-Portfolio/blob/54dd6ce000f91f36dbbb9d456264a9af3473a581/Visuals/Task%203_Promo%20Graphic.png)
+### <ins>SHS Strand Preference Study</ins>
+### My goal was to make this study as engaging yet straightforward as possible. I stuck to the essential structural format: Introduction, Literature Review, Methodology, Findings, and Conclusion. Because the core focus of the study is clear and precise, I chose to keep the presentation equally simple.
+![Infographic](https://github.com/nsb-rgb/GE-IT-SKills-Portfolio/blob/409224fae795552864bee4e04cb34d9b8b99877a/Docs/Infographic.png)
