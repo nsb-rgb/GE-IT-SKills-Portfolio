@@ -33,6 +33,7 @@
 #### 3. Visual Branding Asset
 - **Engine Used:** ChatGPT
 - **Visual Prompt:** Create a visual icon for the eco-tourism action plan. Make it flat and simple, it must contain a shovel tool and a mangrove plant crossing one another. Include a text saying "Only in Samal". 
+![SamalLogo](https://github.com/nsb-rgb/GE-IT-SKills-Portfolio/blob/02c0f071c32aa12592b30bcc80e79493308bb463/AI%20Explorer/SamalLogo.png)
 
 ### Literature Verification Log 
 
