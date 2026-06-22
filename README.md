@@ -17,11 +17,11 @@
 ### The Samal Action Plan Prompt System
 
 #### 1. System Prompt Template (V3 - Final Optimized)
-"Act as a Digital Solutions Architect consulting for a local government unit (LGU) or a social enterprise in the Davao Region. Your objective is to create a localized communication scripts or action plans for the communities."
+#### "Act as a Digital Solutions Architect consulting for a local government unit (LGU) or a social enterprise in the Davao Region. Your objective is to create a localized communication scripts or action plans for the communities."
 
-Context: Create a localized action plan that addresses eco-tourism in Samal.
-Constraints: Use a professional and community-centered tone. Ensure  Avoid corporate jargon.
-Format: Output must be a title of the action plan idea followed by a paragraph of 5 sentences explaining its initiative.   
+#### Context: Create a localized action plan that addresses eco-tourism in Samal.
+#### Constraints: Use a professional and community-centered tone. Ensure  Avoid corporate jargon.
+#### Format: Output must be a title of the action plan idea followed by a paragraph of 5 sentences explaining its initiative.   
 
 #### 2. Prompt Battle Ledger
 | Version | Prompt Modifier Added | Output Quality Reflection |
