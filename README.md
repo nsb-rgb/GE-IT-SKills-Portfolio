@@ -33,3 +33,18 @@ Format: Output must be a title of the action plan idea followed by a paragraph o
 #### 3. Visual Branding Asset
 - **Engine Used:** ChatGPT
 - **Visual Prompt:** Create a visual icon for the eco-tourism action plan. Make it flat and simple, it must contain a shovel tool and a mangrove plant crossing one another. Include a text saying "Only in Samal". 
+
+### Literature Verification Log 
+
+#### Topic: Housing Affordability and the Growth of Informal Settlements in Davao  
+
+#### 1. AI-Generated Summary Audit 
+I prompted an AI discovery tool to summarize recent literature in Davao’s housing and settlers situation. Below is the verification tracking matrix: 
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note | 
+| :--- | :--- | :--- | :--- |
+| "Approximately ~70% of Davao City's urban population lives in informal settlements, highlighting severe shelter issues." | Malaque III, I. (2005). Assessment of Housing for the Urban Poor in the Four Local Government Units in Southern Mindanao. | ❌ **Misrepresented** | The statistic appears unusually high compared with typical Philippine urban housing estimates and should be checked directly against the original thesis/report. Unless the exact page and figure are confirmed, avoid citing this as an established fact. |
+| "The findings suggest that socialized housing is hardly affordable to the low-income population. " | Micah Amor P. Yares (2021), Is the Government's Socialized Housing Program Serving the Needs of Low-income Households? The Case of Davao City.  |  **Verified** | Confirmed. Yares (2021) found that many beneficiaries did not belong to the intended low-income group, housing units were sold above the prescribed price cap, and only a small proportion of homeowners met the income qualifications for socialized housing. |
+
+#### 2. Critical Reflection on Tool Limitations 
+"While the AI platform consolidated two research papers regarding affordable housing and informal settlement in Davao City, it lacked comprehensible language and suggestions of related articles helpful for the academic research.
