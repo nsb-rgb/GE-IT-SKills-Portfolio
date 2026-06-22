@@ -48,3 +48,19 @@ I prompted an AI discovery tool to summarize recent literature in Davao’s hous
 
 #### 2. Critical Reflection on Tool Limitations 
 While the AI platform consolidated two research papers regarding affordable housing and informal settlement in Davao City, it lacked comprehensible language and suggestions of related articles helpful for the academic research.
+
+### Data Analytics & Visual Report 
+
+#### Dataset Focus: Mindanao 2024 Energy Use Index (CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The CSV file contained a disorganized data of local energy use of Mindanao in 2024. The data used inconsistent numerical values to measure the electrical usage of the different types of energy. The data also includes previous years.
+ - **AI Cleaning Instruction:** "Scan this dataset. Only include 2024 energy use and type. Convert all mass metrics to standard Gigawatt-hour (GWh). Output the rows in a cleaned table."
+- **Result:** Successfully identified the 2024 energy use data and converted the metrics to Gigawatt-hour. Organized by year, energy type, and energy use.
+
+#### 2. Visualizations Generated 
+*(High-Contrast Bar Chart showing Energy Type vs Energy Use of Mindanao in 2024)*
+
+#### 3. Human Analytical Narrative (The 'Why' Factor) 
+“The 2024 Mindanao energy-use data shows that coal remains the dominant source of electricity, contributing approximately 12,500 GWh—more than double the output of hydropower, the second-largest source at 5,400 GWh. This indicates that despite ongoing investments in renewable energy, Mindanao continues to rely heavily on fossil fuels to meet growing electricity demand. Geothermal energy contributes a substantial 3,200 GWh, highlighting its importance as a stable and reliable renewable energy source that supports the region's power supply.
+In contrast, solar, biomass, and wind account for relatively small portions of the energy mix, generating 850 GWh, 600 GWh, and 120 GWh respectively. While these renewable technologies are beginning to diversify the region's energy portfolio, their contributions remain significantly lower than those of coal, hydropower, and geothermal energy. Overall, the data suggests that Mindanao is in a transitional phase where renewable energy sources are expanding, but conventional energy generation continues to play the primary role in ensuring energy security and meeting electricity demand.”
