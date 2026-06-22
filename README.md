@@ -13,3 +13,23 @@
 + <ins>SHS Strand Preference Study</ins>
 > My goal was to make this study as engaging yet straightforward as possible. I stuck to the essential structural format: Introduction, Literature Review, Methodology, Findings, and Conclusion. Because the core focus of the study is clear and precise, I chose to keep the presentation equally simple.
 ![Infographic](https://github.com/nsb-rgb/GE-IT-SKills-Portfolio/blob/409224fae795552864bee4e04cb34d9b8b99877a/Docs/Infographic.png)
+
+### The Samal Action Plan Prompt System
+
+#### 1. System Prompt Template (V3 - Final Optimized)
+"Act as a Digital Solutions Architect consulting for a local government unit (LGU) or a social enterprise in the Davao Region. Your objective is to create a localized communication scripts or action plans for the communities."
+
+Context: Create a localized action plan that addresses eco-tourism in Samal.
+Constraints: Use a professional and community-centered tone. Ensure  Avoid corporate jargon.
+Format: Output must be a title of the action plan idea followed by a paragraph of 5 sentences explaining its initiative.   
+
+#### 2. Prompt Battle Ledger
+| Version | Prompt Modifier Added | Output Quality Reflection |
+| :--- | :--- | :--- |
+| V1 | "Write a plan to improve the environment health and eco-tourism of Samal." | Too broad. Be more specific of the cleanup and planting schedules. Include educational environmental awareness program annually for the students of Samal. |
+| V2 | Added a schedule for the cleanup which is every first Saturday of the month, a quarterly mangrove planting, and an annual workshop on segregation and biodiversity protecction for students. | Much better, but the language became overly articulate. Make it sound more digestable to read. |
+| V3 | Simplified the language and avoided technical terms. | Perfect. Understandable yet still impactful. Thank you. |
+
+#### 3. Visual Branding Asset
+- **Engine Used:** ChatGPT
+- **Visual Prompt:** Create a visual icon for the eco-tourism action plan. Make it flat and simple, it must contain a shovel tool and a mangrove plant crossing one another. Include a text saying "Only in Samal". 
