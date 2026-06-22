@@ -26,9 +26,9 @@ Format: Output must be a title of the action plan idea followed by a paragraph o
 #### 2. Prompt Battle Ledger
 | Version | Prompt Modifier Added | Output Quality Reflection |
 | :--- | :--- | :--- |
-| V1 | "Write a plan to improve the environment health and eco-tourism of Samal." | Too broad. Be more specific of the cleanup and planting schedules. Include educational environmental awareness program annually for the students of Samal. |
-| V2 | Added a schedule for the cleanup which is every first Saturday of the month, a quarterly mangrove planting, and an annual workshop on segregation and biodiversity protecction for students. | Much better, but the language became overly articulate. Make it sound more digestable to read. |
-| V3 | Simplified the language and avoided technical terms. | Perfect. Understandable yet still impactful. Thank you. |
+| V1 | "Write a plan to improve the environment health and eco-tourism of Samal." | Too broad. Lacked proper planning such as schedules for its initaitives. Too many ideas all at once. |
+| V2 | Added a schedule for the cleanup which is every first Saturday of the month, a quarterly mangrove planting, and an annual workshop on segregation and biodiversity protecction for students. | Much better, had proper steps in implementing the action plan but the language became overly articulate and wasn't digestable to read which is not ideal for Filipino language leaning residents. |
+| V3 | Simplified the language and avoided technical terms. | Perfect. Understandable, impactful, and made clear on how to make it doable for residents and LGU's. |
 
 #### 3. Visual Branding Asset
 - **Engine Used:** ChatGPT
