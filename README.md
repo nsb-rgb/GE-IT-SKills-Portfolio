@@ -60,7 +60,7 @@ While the AI platform consolidated two research papers regarding affordable hous
 - **Result:** Successfully identified the 2024 energy use data and converted the metrics to Gigawatt-hour. Organized by year, energy type, and energy use.
 
 #### 2. Visualizations Generated 
-*(High-Contrast Bar Chart showing Energy Type vs Energy Use of Mindanao in 2024)*
+![BarChart](https://github.com/nsb-rgb/GE-IT-SKills-Portfolio/blob/91dcec6e973c49b4a1df8cc77cf091e47178ee72/AI%20Explorer/BarChart.png)
 
 #### 3. Human Analytical Narrative (The 'Why' Factor) 
 “The 2024 Mindanao energy-use data shows that coal remains the dominant source of electricity, contributing approximately 12,500 GWh—more than double the output of hydropower, the second-largest source at 5,400 GWh. This indicates that despite ongoing investments in renewable energy, Mindanao continues to rely heavily on fossil fuels to meet growing electricity demand. Geothermal energy contributes a substantial 3,200 GWh, highlighting its importance as a stable and reliable renewable energy source that supports the region's power supply.
